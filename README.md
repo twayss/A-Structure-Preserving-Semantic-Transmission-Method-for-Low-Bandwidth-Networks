@@ -1,5 +1,8 @@
 # A-Structure-Preserving-Semantic-Transmission-Method-for-Low-Bandwidth-Networks
 Semantic-structure-preserving image transmission framework for low-bandwidth scenarios, featuring multi-stream decoupling, structural reconstruction, and efficient low-bitrate communication.
+
+The data associated with this model have been published on the ScienceDB platform. This repository is adapted from the version released on ScienceDB and provides the implementation code only. For detailed experimental results, pretrained model weights, and the datasets used, please refer to: https://doi.org/10.57760/sciencedb.33990
+
 Edge-Link: Structure-Preserving Semantic Transmission for Low-Bandwidth Networks
 
 
